@@ -1,3 +1,3 @@
 # Single Page CV
 
-**Project URL:** https://trunghuy17.github.io/single-page-cv-html/
+**Project URL:** https://roadmap.sh/projects/single-page-cv

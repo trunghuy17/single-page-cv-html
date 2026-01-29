@@ -1,1 +1,1 @@
-https://trunghuy17.github.io/single-page-cv-html/
+https://github.com/trunghuy17/single-page-cv-html
